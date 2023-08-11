@@ -2,7 +2,7 @@
 
 <!-- ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hokkyss&repo=hokkyss) -->
 
-### Software Engineer | Final Year Informatics Student
+### Software Engineer | Fresh Graduate
 
 An undergraduate student full of enthusiasm and motivation with problem solving capabilities. Very excited to learn something new. Always fulfilling all responsibilities heartfully. Currently a final year Informatics/Computer Science student in Bandung Institute of Technology. Pursuing career as a software engineer. Used quite lot of tech stacks.
 
@@ -36,7 +36,6 @@ An undergraduate student full of enthusiasm and motivation with problem solving 
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white)
-![Ant-Design](https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white)
 ![Chakra UI](https://img.shields.io/badge/chakra%20UI-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material%20UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
